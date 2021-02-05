@@ -5,13 +5,28 @@
   background-color: white;
 } 
 
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
 h3 {
   color: red;
   margin-top: 25px;
+  
 }
 
 footer {
+  width: 80%;
   background-color: #333;
   color: white;
+  padding: 15px;
+  font-size: 20px;
+  text-align: center;
+  margin: auto;
+  margin-top: 25px;
 }
 
